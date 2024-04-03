@@ -1,0 +1,32 @@
+/* En App.css o PokemonViewer.css */
+
+/* Estilo para el nombre del Pokémon */
+.pokemon-info h1 {
+    color: #cc0000; /* Rojo Pokémon */
+    font-family: 'Arial', sans-serif; /* Elige una fuente que prefieras */
+    text-transform: uppercase;
+    letter-spacing: 2px; /* Espaciado entre letras para un efecto más dramático */
+  }
+  
+  /* Contenedor de tipos */
+  .pokemon-types {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-top: 10px;
+  }
+  
+  /* Estilo para cada tipo de Pokémon */
+  .type {
+    background-color: #f8d030; /* Amarillo Pokémon */
+    color: #fff;
+    padding: 5px 10px;
+    border-radius: 14px;
+    font-weight: bold;
+    box-shadow: 0 2px 2px rgba(0,0,0,0.2);
+    text-transform: uppercase;
+  }
+  
+  /* Ajusta los estilos aquí para adaptarlos a tu diseño */
+  
