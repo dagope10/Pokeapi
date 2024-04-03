@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FxI1kSzhD52uEvl89NHFvIoRuPI1Tj2kLIQ3KjolumZEbHHG95PP6cHg+VMXIN/DXQp0PvDZBxqrF/r3NJR7Hg==",
+  "success": true,
+  "projectFilePath": "/Users/danielgomezperez/Desktop/primeraApp/backend/backend.csproj",
+  "expectedPackageFiles": [
+    "/Users/danielgomezperez/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
